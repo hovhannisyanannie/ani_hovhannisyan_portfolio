@@ -1,0 +1,94 @@
+#contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 100%;
+    padding: 80px 0 40px;
+  }
+
+  #contact .heading{
+    font-size: 32px;
+    color:orange;
+    margin: 20px 0;
+  }
+
+  #contact .login-form {
+    position: relative;
+    width: 100%;
+    max-width: 550px;
+    padding: 40px 40px 60px;
+    margin:0 15px;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: -5px -5px 10px rgba(255, 255, 255, 0.05),
+      5px 5px 15px rgba(0, 0, 0, 0.5);
+      
+  }
+
+  #contact .login-form .inputBox label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 18px;
+  }
+  #contact .login-form .inputBox input,  #contact .login-form .inputBox textarea {
+    width: 100%;
+    height: 50px;
+    border: none;
+    color:black;
+    border-radius: 40px;
+    padding: 5px 15px;
+    font-size: 18px;
+    box-shadow: inset -2px -2px 6px rgba(255, 255, 255, 0.1),
+      inset 2px 2px 6px rgba(0, 0, 0, 0.8);
+  }
+
+
+#contact .login-form .inputBox textarea{
+   height: 120px;
+   resize: none;
+  }
+  
+
+  #contact .login-form .inputBox textarea::-webkit-scrollbar{
+    width: 6px;
+  }
+  
+  #contact .login-form .inputBox textarea::-webkit-scrollbar-track{
+    background:#00171f;
+  }
+  
+  #contact .login-form .inputBox textarea::-webkit-scrollbar-thumb{
+    background-color:orange;
+    border-radius: 8px;
+    text-align: center;
+    padding: 0!important;
+  }
+
+  #contact .login-form .inputBox input[type="submit"] {
+    background-color: orange;
+    margin-top: 20px;
+    margin-left: 6px;
+    font-weight: 600;
+    box-shadow: -2px -2px 6px rgba(255, 255, 255, 0.1),
+      2px 2px 6px rgba(0, 0, 0, 0.8);
+  }
+
+  #contact .login-form .inputBox input[type="submit"]:hover{
+    background-color: transparent;
+    cursor: pointer;
+  }
+  #contact .login-form .inputBox input[type="submit"]:active {  
+    margin-top: 20px;
+    box-shadow: inset -2px -2px 6px rgba(255, 255, 255, 0.1),
+      inset 2px 2px 6px rgba(0, 0, 0, 0.8);
+  }
+  #contact .login-form .inputBox input::placeholder {
+    font-size: 18px;
+  }
+
+  @media screen and (max-width:590px){
+    #contact .login-form {
+      padding: 20px 20px 30px;
+    }
+  }

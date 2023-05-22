@@ -1,0 +1,37 @@
+footer{
+    min-height: 30vh;
+    background-color: #004256;
+}
+
+footer .inner{
+    margin:50px auto;
+}  
+
+footer .inner .social{
+    margin-bottom: 10px;
+}
+
+footer .inner .social a i{
+    color:orange;
+    font-size: 28px;
+    margin-left:10px;
+}
+
+footer p {
+    padding:8px 0;
+    font-size: 14px;
+    font-weight: 600;
+    border-top:1px solid rgb(92, 83, 83);
+}
+
+footer p span{
+    color:orange;
+}
+
+footer .scroll-to-top {
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: Black;
+}
+

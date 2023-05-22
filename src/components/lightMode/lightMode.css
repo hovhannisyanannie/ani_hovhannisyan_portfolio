@@ -1,0 +1,15 @@
+.lightMode{
+    position: relative;
+    cursor: pointer;
+}
+
+.lightMode .btn{
+    font-size: 32px;
+    color: orange;
+}
+
+@media screen and (max-width: 510px){
+    .lightMode{
+        right: 30px;
+    }
+}

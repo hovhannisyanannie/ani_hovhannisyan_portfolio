@@ -1,0 +1,116 @@
+#home{
+    padding-top:120px;
+    min-height: 90vh;
+}
+
+#home .container .inner{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#home .container .inner .box:first-child{
+    width: 600px; 
+}
+
+#home .container .inner .box:last-child{
+    width: 650px;
+}
+
+#home .container .inner .image{
+   width: 70%;
+    background-image: url("https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/320981533_679842163864035_8252587885612308767_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=5yjSwSpm1CMAX9ZCCH-&_nc_ht=scontent.fevn7-1.fna&oh=03_AdTDGRL_PmxfTyCpTeMMnhJMXSWKwkCz3bo-Ku6zJ5O-SQ&oe=646C62EB");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    border-radius: 50%;
+    cursor: pointer;
+    mix-blend-mode:luminosity;
+}
+
+#home .container .inner .box:last-child h2{
+    font-size: 36px;
+    margin-top: 30px;
+    line-height: 45px;
+}
+
+#home .container .inner .box:last-child h3{
+    font-size: 22px;
+    margin: 30px 0;
+    line-height: 45px;
+    font-weight: 200;
+}
+
+#home .container .inner .box:last-child  h2{
+    font-weight: 100;
+}
+
+#home .container .inner .box:last-child  h2 span{
+    color:orange;
+    font-weight: 900;
+    font-size: 50px;
+}
+
+#home .container .inner .box:last-child  h3{
+    font-size: 26px;
+}
+
+
+#home .social a i{
+    display: inline-block;
+    /* border-radius:5px!important; */
+}
+
+#home .social a i{
+    font-size: 40px;
+    margin-left:10px;
+    margin-bottom: 18px;
+}
+
+
+#home .links.btn i{
+    font-size: 20px!important;
+}
+
+#home .links.btn{
+    display: inline-block;
+    background-color: orange;
+    padding:5px 16px 0;
+    font-size: 22px;
+    border-radius:30px;
+    border:2px solid white;
+}
+
+#home .links.btn:hover{
+    background: transparent;
+    border:2px solid orange;
+    transition: .5s ease;
+}
+
+@media screen and (max-width: 1300px){
+    #home .container .inner .box:first-child{
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 590px){
+    #home .container .inner .image{
+        max-height: 50vh;
+        max-width: 60vh;
+    }
+}
+
+@media screen and (max-width: 380px){
+    #home .container .inner .box:last-child  h2 {
+        font-size: 28px;
+    }
+
+    #home .container .inner .box:last-child  h2 span{
+        font-size: 34px;
+    }
+    #home .container .inner .image{
+        max-height: 40vh;
+        max-width: 50vh;
+    }
+}

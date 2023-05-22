@@ -1,0 +1,21 @@
+#skills .heading{
+  margin-top:80px;
+}
+
+#skills .container .inner{
+  margin: 0px auto;
+  max-width: 900px;
+  padding:0 15px;
+}
+
+ #skills .skillbar-percent{
+  color:black;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+#skills .skillbar{
+  height: 45px!important;
+  line-height: 45px!important;
+  background: #eee!important;
+}

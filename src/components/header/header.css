@@ -1,0 +1,126 @@
+header .navbar {
+    height: 80px;  
+    position: fixed;
+    top: 0;
+    left:0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 22px;
+    z-index: 9;
+  }
+  
+header .navbar.scroll{
+  background-color: #004256;
+}
+
+header .navbar .inner {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100%;
+  }
+  
+  header .navbar .inner .logo {
+    cursor: pointer;
+    font-size: 52px;
+  }
+
+  header .navbar .inner .logo span{
+    color: #f5b921;
+  }
+
+  header .navbar .inner .nav-menu {
+    display: flex;
+    align-items: center;
+    height: 80px;
+    text-align: center;
+    margin:0;
+  }
+  
+  header .navbar .inner .nav-menu .links {
+    padding: 8px 16px;
+    height: 100%;
+  }
+
+  header .navbar .inner .nav-menu .links:hover, header .navbar .inner .logo:hover{
+    cursor: pointer;
+    text-shadow: 0 -1px 0 #fff, 0 1px 0 #2e2e2e, 0 2px 0 #2c2c2c, 0 3px 0 #2a2a2a, 0 4px 0 #282828, 0 5px 0 #262626, 0 6px 0 #242424, 0 7px 0 #222, 0 8px 0 #202020, 0 9px 0 #1e1e1e, 0 10px 0 #1c1c1c, 0 11px 0 #1a1a1a, 0 12px 0 #181818, 0 13px 0 #161616, 0 14px 0 #141414, 0 15px 0 #121212, 0 22px 30px rgba(0,0,0,0.9), -1px -3px 8px rgba(206,89,55,0);
+    transition: all 1s;
+  }
+
+  .fa-code {
+    margin-left: 16px;
+  }
+  
+  header .navbar .inner .icon {
+    display: none;
+  }
+  
+  @media screen and (max-width: 960px) {
+    
+    header .navbar .inner .nav-menu {
+      display: flex;
+      flex-direction: column;
+      width: 100%;
+      position: absolute;
+      top: 80px;
+      height: 100vh;
+      left: -100%;
+      /* opacity: 1; */
+      transition: all .5s ease;
+    }
+  
+    header .navbar .inner .nav-menu.active {
+      /* background: rgb(0, 23, 31);  */
+      background:  #004256;
+      left: 0px;
+      /* opacity: 1; */
+      transition: all 1s ease;
+      z-index: 1;
+    }
+
+    header .navbar .inner .nav-menu li{
+      padding:10px 0;
+    }
+
+     header .navbar .inner .links {
+      display: block;
+      width: 100%;
+      padding: 24px;
+    }
+
+    header .navbar .inner .icon {
+      display: block;
+      position: absolute;
+      top: 20px;
+      right:20px;
+      font-size: 28px;
+      cursor: pointer;
+      color:orange;
+    }
+  }
+
+  @media screen and (max-width: 960px){
+    header .navbar .inner .icon{
+      right:20px;
+    }
+    header .navbar .inner .logo{
+      font-size: 42px;
+    } 
+  }
+
+
+  @media screen and (max-width: 380px){
+    header .navbar .inner .logo{
+      font-size: 32px;
+    } 
+    header .navbar .inner {
+      padding:0 10px;
+    }
+  }
+  
+
+
+  

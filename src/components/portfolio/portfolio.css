@@ -1,0 +1,163 @@
+#portfolio{
+    padding-top: 80px;
+}
+
+
+
+#portfolio .container .inner{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:35px;
+}
+
+#portfolio .container .inner .box{
+  max-width: 400px;
+  width: 95%;
+  height: auto;
+  position: relative;
+  overflow: hidden;
+  box-shadow: inset -2px -2px 6px rgba(255, 255, 255, 0.1),
+  inset 2px 2px 6px rgba(0, 0, 0, 0.8);
+}
+
+
+#portfolio .container .inner .box .content{
+  position: absolute;
+  top: -100%;
+  left:-100%;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  padding:2rem;
+  background-color: rgb(0, 23, 31);  
+  cursor: pointer;
+}
+
+#portfolio .container .inner .box:hover .content{
+  top:0;
+  left:0;
+}
+#portfolio .container .inner .box .content .description{
+  max-height: 110px;
+  height: 100%;
+  overflow-y: auto;
+  margin-bottom: 50px;
+}
+
+#portfolio .container .inner .box .content .description::-webkit-scrollbar{
+  width: 6px;
+}
+
+#portfolio .container .inner .box .content .description::-webkit-scrollbar-track{
+  background:#00171f;
+}
+
+#portfolio .container .inner .box .content .description::-webkit-scrollbar-thumb{
+  background-color:orange;
+  border-radius: 8px;
+  text-align: center;
+  padding: 0!important;
+}
+
+#portfolio .container .inner .box img{
+  width: 100%;
+  height: 300px; 
+  object-fit: cover;
+}
+
+#portfolio .container .inner .box {
+  position: relative;
+  transition: 0.5s;
+  box-shadow: -2px -2px 6px rgba(255, 255, 255, 0.1),
+    2px 2px 6px rgba(0, 0, 0, 0.8); 
+}
+
+#portfolio .container .inner .box .content span:first-child{
+  font-size: 20px;
+  font-weight: 800;
+  display:inline-block;
+  padding:10px 0;
+}
+
+#portfolio .container .inner .box .content p, #portfolio .container .inner .box .content span{
+  font-size:16px;
+  padding: 5px;
+  font-weight: 600; 
+}
+
+
+#portfolio .container .inner .box .content p span:first-child{
+  color:orange;
+  font-size: 16px; 
+}
+
+#portfolio .container .buttons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  margin: 30px auto;
+}
+
+#portfolio .container .buttons .btn {
+  text-transform: capitalize;
+  margin-right: 20px;
+}
+
+#portfolio .container .btn {
+  background: transparent;
+  background-color: orange;
+  border:2px solid white;
+  font-weight: bold;
+  border-radius: 45px;
+  padding:8px 16px;
+  cursor: pointer;
+  margin-bottom: 12px;
+}
+
+
+#portfolio .container .btn:hover{
+  background: transparent;
+  border:2px solid orange;
+  transition: .5s ease;
+}
+
+#portfolio .container .content p button{
+  color:rgb(59, 175, 253);
+  background-color:transparent!important;
+  cursor: pointer;
+  font-size: 16px;
+}
+#portfolio .container .inner .box .content .social{
+  display: flex;
+  justify-content: space-evenly; 
+}
+
+#portfolio .container .inner .box .content .social a{
+  display: inline-block;
+  width: 120px;
+  padding:8px 12px;
+  font-size: 18px;
+  font-weight: 600;
+  border-radius: 25px;
+  border:2px solid orange;
+  box-shadow: -2px -2px 6px rgba(255, 255, 255, 0.1),
+    2px 2px 6px rgba(0, 0, 0, 0.8);
+}
+
+
+#portfolio .container .inner .box .content .social a:hover{
+  background-color: orange;
+  border:2px solid white;
+}
+
+
+ @media screen and(max-width:550px){
+  #portfolio .container .buttons{
+    flex-direction: column;
+  }
+  #portfolio .container .inner .box{
+    margin:70px;
+  }
+} 
