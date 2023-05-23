@@ -19,7 +19,7 @@
 
 #home .container .inner .image{
    width: 70%;
-    background-image: url("https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/320981533_679842163864035_8252587885612308767_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=5yjSwSpm1CMAX9ZCCH-&_nc_ht=scontent.fevn7-1.fna&oh=03_AdTDGRL_PmxfTyCpTeMMnhJMXSWKwkCz3bo-Ku6zJ5O-SQ&oe=646C62EB");
+    background-image: url("https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/320981533_679842163864035_8252587885612308767_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=fXx-0UuB8WkAX-iXdpc&_nc_ht=scontent.fevn7-1.fna&oh=03_AdQUGtObic2G2CgIpYWCDnRswPm7NkmkojUTVSOPH4t0vw&oe=6494606B");
     background-repeat: no-repeat;
     background-size: cover;
     height: 60vh;
@@ -55,13 +55,8 @@
     font-size: 26px;
 }
 
-
 #home .social a i{
     display: inline-block;
-    /* border-radius:5px!important; */
-}
-
-#home .social a i{
     font-size: 40px;
     margin-left:10px;
     margin-bottom: 18px;
