@@ -16,7 +16,7 @@ const footer = () => {
       <div className="container">
       <div className="inner">
           <div className="social">
-                  <a href='https://www.facebook.com/'><i class="fa-brands fa-square-facebook"></i></a>
+                  <a href='https://www.facebook.com/eny.hovhannisyan'><i class="fa-brands fa-square-facebook"></i></a>
                   <a href="https://www.linkedin.com/in/annie-hovhannisyan-b6697a25b/"><i class="fa-brands fa-linkedin"></i></a>
                   <a href='https://github.com/hovhannisyanannie'><i class="fa-brands fa-square-github"></i></a>
 
