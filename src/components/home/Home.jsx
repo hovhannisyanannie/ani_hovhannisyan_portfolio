@@ -19,7 +19,7 @@ const Home = () => {
             <div className="box">
                 <h2> Hello, I'm <span> Ani Hovhannisyan </span></h2>
                 <h3><span className="junior">I'm </span> <Typewriter
-                  words={['a Junior React.js developer', "looking for an internship in Junior React.JS position"]}
+                  words={['a Junior Frontend developer', "looking for an internship in Junior Frontend position"]}
                   loop
                   cursor
                   cursorStyle='|'
