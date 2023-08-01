@@ -8,7 +8,7 @@ const Contact = () => {
     { type: 'CSS', level: 85 },
     { type: 'Javascript', level: 60 },
     { type: 'React', level: 60 },
-    { type: 'Redux', level: 20 },
+    { type: 'Redux Toolkit', level: 20 },
     { type: "Ant Design", level:25},
     { type: "Git/Github", level:25},
   ];
