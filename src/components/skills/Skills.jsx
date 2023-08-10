@@ -6,6 +6,7 @@ const Contact = () => {
   const skills = [
     { type: 'HTML', level: 90 },
     { type: 'CSS', level: 85 },
+    {type:'SASS/SCSS', level:80},
     { type: 'Javascript', level: 60 },
     { type: 'React', level: 60 },
     { type: 'Redux Toolkit', level: 20 },
