@@ -9,9 +9,9 @@ const Contact = () => {
     {type:'SASS/SCSS', level:80},
     { type: 'Javascript', level: 60 },
     { type: 'React', level: 60 },
-    { type: 'Redux Toolkit', level: 20 },
-    { type: "Ant Design", level:25},
-    { type: "Git/Github", level:25},
+    { type: 'Redux Toolkit', level: 40},
+    { type: "Ant Design", level:40},
+    { type: "Git/Github", level:35},
   ];
 
   const colors = {
