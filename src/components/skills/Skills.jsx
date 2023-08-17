@@ -11,7 +11,7 @@ const Contact = () => {
     { type: 'React', level: 60 },
     { type: 'Redux Toolkit', level: 40},
     {type:"Next.js basics", level:20},
-    {type:"Weback basics",level:20},
+    {type:"Webpack basics",level:20},
     {type: "Ant Design", level:40},
     {type: "Git/Github", level:35},
   ];
