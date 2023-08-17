@@ -62,8 +62,9 @@
  
 
 #about .container .inner .box:last-child p{
-   font-size: 16px;
+   font-size: 15px;
    text-align: left;
+   line-height: 16px;
 }
 
 #about .vertical-timeline-element-content.bounce-in{
