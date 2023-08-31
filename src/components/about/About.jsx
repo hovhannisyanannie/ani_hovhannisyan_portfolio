@@ -2,7 +2,7 @@ import React from 'react';
 import { VerticalTimeline, VerticalTimelineElement }  from 'react-vertical-timeline-component';
 import SchoolIcon from '@material-ui/icons/School'
 import WorkIcon from '@material-ui/icons/Work';
-import CV from "./Ani-Hovhannisyan-CV.pdf";
+import CV from "./Ani Hovhannisyan CV.pdf";
 import { Image } from 'antd';
 import 'antd/dist/antd.css';
 import 'react-vertical-timeline-component/style.min.css';
