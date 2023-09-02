@@ -10,7 +10,7 @@ export const portfolio = [
   },
   {
     id: 2,
-    image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/325012093_430662552527493_5839721797762352025_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=l1XNXG6K8MgAX-HnXiu&_nc_ht=scontent.fevn7-1.fna&oh=03_AdRsUaYhOTOxJPflo4tZASIEz0WVZVR_7e52u_b43gdjNQ&oe=651AD7555",
+    image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/325012093_430662552527493_5839721797762352025_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=l1XNXG6K8MgAX-HnXiu&_nc_ht=scontent.fevn7-1.fna&oh=03_AdRsUaYhOTOxJPflo4tZASIEz0WVZVR_7e52u_b43gdjNQ&oe=651AD755",
     category: "react/redux",
     title: "Lora online shop",
     technologies:"This is a React-Redux online shop app that allows you to move to a single product page, add products to the cart, increase/ decrease the number of products, remove products. The products can be sorted by category, brand, alphabetical order, ascending and descending order of price. I used react-toastify on the login and registration pages. I have created a fake JSON server for this app as well. The app is responsive.",
