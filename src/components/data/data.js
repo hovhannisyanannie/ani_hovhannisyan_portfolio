@@ -29,6 +29,7 @@ export const portfolio = [
   {
     id: 4,
     image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/321527660_534239165325338_2762036322905988236_n.png?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=xbKknJjD93kAX-yAdKT&_nc_ht=scontent.fevn7-1.fna&oh=03_AdTIAOVcrT1AO8PVPNGcZpR7F9ifRGhYYAwslGaEdP-sWg&oe=651AF502",
+    category:"JavaScript",
     title: "Tic Tac Toe",
     technologies:"This is a game developed using Javascript. I tried to use as simple codes as possible. The game is also responsive.",
     code: "https://github.com/hovhannisyanannie/Tic_Tac_Toe",
