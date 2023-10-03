@@ -1,7 +1,7 @@
 export const portfolio = [
   {
     id: 1,
-    image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/322828231_947179446646538_9051590649107459274_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=F7QHKh2vUH4AX9M5YkG&_nc_ht=scontent.fevn7-1.fna&oh=03_AdQPYBI2jAq9WOhcXnlJLprttO8GnksU11g0XIDm6LBPmQ&oe=651AF74F",
+    image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/322828231_947179446646538_9051590649107459274_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=E08-6t8CVsQAX-mbVPi&_nc_ht=scontent.fevn7-1.fna&oh=03_AdS99lK6BuL59SMpJyP2ZpFz440tEP1fSo67si7ZO2Qbzw&oe=65439D8F",
     category: "react",
     title: "Online BookStore",
     technologies:"This is an online bookshop, where I tried to use the minimal functionality intended for bookshops. The app allows you to add books to the basket, increase/decrease the number of books, or delete the given book. Pagination, search function/Authors page/ have also been added to the app. On the contact page, there is an option to send me an email via Email.js.I created my fake JSON server to have book data. This app is responsive.",
@@ -10,7 +10,7 @@ export const portfolio = [
   },
   {
     id: 2,
-    image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/325012093_430662552527493_5839721797762352025_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=l1XNXG6K8MgAX-HnXiu&_nc_ht=scontent.fevn7-1.fna&oh=03_AdRsUaYhOTOxJPflo4tZASIEz0WVZVR_7e52u_b43gdjNQ&oe=651AD755",
+    image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/325012093_430662552527493_5839721797762352025_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=w4hN1qpATnQAX_OK43L&_nc_ht=scontent.fevn7-1.fna&oh=03_AdRxX38MdS45QhzbthcRJ892t7ZR8RH4xlqo3YiHp7WFWw&oe=6543B5D5",
     category: "react/redux",
     title: "Lora online shop",
     technologies:"This is a React-Redux online shop app that allows you to move to a single product page, add products to the cart, increase/ decrease the number of products, remove products. The products can be sorted by category, brand, alphabetical order, ascending and descending order of price. I used react-toastify on the login and registration pages. I have created a fake JSON server for this app as well. The app is responsive.",
@@ -19,7 +19,7 @@ export const portfolio = [
   },
   {
     id: 3,
-    image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/321241850_567402068262629_8699491391814818158_n.png?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=sAhnpaQ_emcAX8EvlSo&_nc_ht=scontent.fevn7-1.fna&oh=03_AdTs0cFiCf-dgqcgKoczt7EHZMNkzQqYMRP5tgPboIhZzA&oe=651B010C",
+    image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/321241850_567402068262629_8699491391814818158_n.png?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=yfERXnxv5AIAX8t6kph&_nc_ht=scontent.fevn7-1.fna&oh=03_AdQDH9eSgEiqFOpYJmtssM7m_dyc_RVpNbR2OMKvXya66w&oe=6543A74C",
     category: "react",
     title: "React Quiz App",
     technologies:"This is a game developed using React.js. The game is also responsive.",
@@ -28,7 +28,7 @@ export const portfolio = [
   },
   {
     id: 4,
-    image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/321527660_534239165325338_2762036322905988236_n.png?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=xbKknJjD93kAX-yAdKT&_nc_ht=scontent.fevn7-1.fna&oh=03_AdTIAOVcrT1AO8PVPNGcZpR7F9ifRGhYYAwslGaEdP-sWg&oe=651AF502",
+    image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/321527660_534239165325338_2762036322905988236_n.png?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=odZ8LkAy23MAX_X5D-L&_nc_ht=scontent.fevn7-1.fna&oh=03_AdT5ULydC1REfEBSmBFtP_79K5TOC7feH2vsK8wwms2wfA&oe=65439B42",
     category:"JavaScript",
     title: "Tic Tac Toe",
     technologies:"This is a game developed using Javascript. I tried to use as simple codes as possible. The game is also responsive.",
@@ -37,7 +37,7 @@ export const portfolio = [
   },
   {
     id: 5,
-    image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/322527496_913726669797339_7235995833285498593_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=PVxL0L34B4cAX_WwLeL&_nc_ht=scontent.fevn7-1.fna&oh=03_AdQZyo_59neSnIqfzqlIuflTITOh3UvnAhhbcQknToIfRw&oe=651AE3C6",
+    image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/322527496_913726669797339_7235995833285498593_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=SEiBgh_-hqMAX_bpZnG&_nc_ht=scontent.fevn7-1.fna&oh=03_AdQ_oJwKLn3Hn-HEdMI9dqvo7srIdslxfsSG_Nv3n3SbCA&oe=65438A06",
     category: "HTML/CSS",
     title: "Solar Sysyem Website",
     technologies:"The website is made only with HTML/CSS. CSS features have been used as much as possible. There are a number of animations that can be viewed from the solar system drop-down menu. There are also read more/read less, back to top buttons made using only HTML/CSS. The website is responsive․",
