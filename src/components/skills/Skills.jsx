@@ -9,6 +9,7 @@ const Contact = () => {
     {type:'SASS/SCSS', level:80},
     { type: 'Javascript', level: 70 },
     { type: 'React', level: 70 },
+    {type:"TypeScript", level:40},
     { type: 'Redux Toolkit', level: 40},
     {type:"Next.js basics", level:20},
     {type:"Webpack basics",level:20},

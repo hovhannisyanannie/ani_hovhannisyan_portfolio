@@ -24,7 +24,7 @@ const About = () => {
             />
           </div>
           <div className="box">
-              <p>I'm a junior Front End developer, looking for an internship to develop my skills and abilities, as well as make a small contribution to the company's activities, which will give me the opportunity to demonstrate my abilities.</p>
+              <p>I'm a junior Front End developer, looking for an internship/a job to develop my skills and abilities, as well as make a small contribution to the company's activities, which will give me the opportunity to demonstrate my abilities.</p>
               <p>In order to have a little experience before applying for an internship, I've made some web apps using mostly React.js, but also Vanilla JS and Redux. I've worked with REST APIs, familiar with basic Design Patterns. I also paid attention to the use of HTML and CSS features. One of the projects, made exclusively with HTML/CSS, won first place in the company. I've worked both Figma and Adobe Photoshop.</p>
               <p>My previous work experience helped me to understand the importance of teamwork, but I would like to point out that I can also work alone. I've worked alone the entire time I've been developing web apps and I tried to find the solution myself whenever I encountered any problem.</p> 
               <p>I am hardworking and responsible, I do everything possible to complete the work on time and with quality. I am also ready to work extra hours if there is a need for it.</p>
