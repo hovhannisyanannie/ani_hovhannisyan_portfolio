@@ -24,10 +24,9 @@ const About = () => {
             />
           </div>
           <div className="box">
-              <p>I'm a junior Front End developer, looking for an internship/a job to develop my skills and abilities, as well as make a small contribution to the company's activities, which will give me the opportunity to demonstrate my abilities.</p>
-              <p>In order to have a little experience before applying for an internship, I've made some web apps using mostly React.js, but also Vanilla JS and Redux. I've worked with REST APIs, familiar with basic Design Patterns. I also paid attention to the use of HTML and CSS features. One of the projects, made exclusively with HTML/CSS, won first place in the company. I've worked both Figma and Adobe Photoshop.</p>
-              <p>My previous work experience helped me to understand the importance of teamwork, but I would like to point out that I can also work alone. I've worked alone the entire time I've been developing web apps and I tried to find the solution myself whenever I encountered any problem.</p> 
-              <p>I am hardworking and responsible, I do everything possible to complete the work on time and with quality. I am also ready to work extra hours if there is a need for it.</p>
+              <p>I am a highly motivated and aspiring Junior React JS Developer with a strong desire to further develop my skills and abilities. My ambition is to contribute to the success of a company that values career growth and fosters a dynamic work environment․</p>
+              <p>I have gained practical experience by developing web applications using React.js, Vanilla JS, TypeScript, and Redux. These projects have allowed me to work with REST APIs. Notably, one of my projects, made in pure HTML/CSS, won first place in a competition held by an Armenian company.  I am currently furthering my skills by studying Next.js and TypeScript. In addition to my technical skills, I have worked with design tools such as Figma and Adobe Photoshop.  I have experience working with Git and my projects are hosted on GitHub.</p>
+              <p>I am driven to deliver high-quality results by consistently meeting deadlines and exceeding expectations. My commitment to successfully overcome challenges has been the cornerstone of my web development journey and I am ready to continue this journey in a team that will allow me to showcase my abilities. </p> 
                 <a href={CV} download>
                 <button className="btn">Download CV</button>
               </a>
