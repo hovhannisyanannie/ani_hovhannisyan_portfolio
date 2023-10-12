@@ -33,7 +33,7 @@ export const portfolio = [
     title: "Tic Tac Toe",
     technologies:"This is a game developed using Javascript. I tried to use as simple codes as possible. The game is also responsive.",
     code: "https://github.com/hovhannisyanannie/Tic_Tac_Toe",
-    demo: "https://tic-tac-toe-self-kappa.vercel.app/",
+    demo: "https://tic-tac-toe-36pu.vercel.app/",
   },
   {
     id: 5,
