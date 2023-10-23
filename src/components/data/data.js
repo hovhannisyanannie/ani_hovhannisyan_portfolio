@@ -2,7 +2,7 @@ export const portfolio = [
   {
     id: 1,
     image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/322828231_947179446646538_9051590649107459274_n.png?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=E08-6t8CVsQAX-mbVPi&_nc_ht=scontent.fevn7-1.fna&oh=03_AdS99lK6BuL59SMpJyP2ZpFz440tEP1fSo67si7ZO2Qbzw&oe=65439D8F",
-    category: "react",
+    category: "React",
     title: "Online BookStore",
     technologies:"This is an online bookshop, where I tried to use the minimal functionality intended for bookshops. The app allows you to add books to the basket, increase/decrease the number of books, or delete the given book. Pagination, search function/Authors page/ have also been added to the app. On the contact page, there is an option to send me an email via Email.js.I created my fake JSON server to have book data. This app is responsive.",
     code: "https://github.com/hovhannisyanannie/react_bookshop_app",
@@ -11,23 +11,37 @@ export const portfolio = [
   {
     id: 2,
     image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/325012093_430662552527493_5839721797762352025_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=w4hN1qpATnQAX_OK43L&_nc_ht=scontent.fevn7-1.fna&oh=03_AdRxX38MdS45QhzbthcRJ892t7ZR8RH4xlqo3YiHp7WFWw&oe=6543B5D5",
-    category: "react/redux",
+    category: "React/Redux",
     title: "Lora online shop",
     technologies:"This is a React-Redux online shop app that allows you to move to a single product page, add products to the cart, increase/ decrease the number of products, remove products. The products can be sorted by category, brand, alphabetical order, ascending and descending order of price. I used react-toastify on the login and registration pages. I have created a fake JSON server for this app as well. The app is responsive.",
     code: "https://github.com/hovhannisyanannie/online-shop",
     demo: "https://venerable-fudge-5d6641.netlify.app/",
   },
+
+
   {
     id: 3,
+    image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/387561867_347016774493227_2889177851285271171_n.png?_nc_cat=102&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=WWpDw0veSCgAX8quw6L&_nc_ht=scontent.fevn7-1.fna&oh=03_AdSCM5iEvIN69rTtbmgJB4AXSoJObz7fBxMw5w4sJXlxrw&oe=655E1879",
+    category: "React/TypeScript",
+    title: "Star Wars API",
+    technologies:"This project is made using React and TypeScript. The Star Wars API was used to load the data. The project has pagination, search bar and a separate page for each figure.",
+    code: "https://github.com/hovhannisyanannie/star-wars",
+    demo: "https://github.com/hovhannisyanannie/star-wars",
+  },
+
+
+
+  {
+    id: 4,
     image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/321241850_567402068262629_8699491391814818158_n.png?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=yfERXnxv5AIAX8t6kph&_nc_ht=scontent.fevn7-1.fna&oh=03_AdQDH9eSgEiqFOpYJmtssM7m_dyc_RVpNbR2OMKvXya66w&oe=6543A74C",
-    category: "react",
+    category: "React",
     title: "React Quiz App",
     technologies:"This is a game developed using React.js. The game is also responsive.",
     code: "https://github.com/hovhannisyanannie/react-quiz-app",
     demo: "https://amy-react-quiz-app.netlify.app/",
   },
   {
-    id: 4,
+    id: 5,
     image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/321527660_534239165325338_2762036322905988236_n.png?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=odZ8LkAy23MAX_X5D-L&_nc_ht=scontent.fevn7-1.fna&oh=03_AdT5ULydC1REfEBSmBFtP_79K5TOC7feH2vsK8wwms2wfA&oe=65439B42",
     category:"JavaScript",
     title: "Tic Tac Toe",
@@ -36,7 +50,7 @@ export const portfolio = [
     demo: "https://tic-tac-toe-36pu.vercel.app/",
   },
   {
-    id: 5,
+    id: 6,
     image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/322527496_913726669797339_7235995833285498593_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=SEiBgh_-hqMAX_bpZnG&_nc_ht=scontent.fevn7-1.fna&oh=03_AdQ_oJwKLn3Hn-HEdMI9dqvo7srIdslxfsSG_Nv3n3SbCA&oe=65438A06",
     category: "HTML/CSS",
     title: "Solar Sysyem Website",
