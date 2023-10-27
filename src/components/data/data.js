@@ -21,7 +21,7 @@ export const portfolio = [
 
   {
     id: 3,
-    image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/387561867_347016774493227_2889177851285271171_n.png?_nc_cat=102&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=WWpDw0veSCgAX8quw6L&_nc_ht=scontent.fevn7-1.fna&oh=03_AdSCM5iEvIN69rTtbmgJB4AXSoJObz7fBxMw5w4sJXlxrw&oe=655E1879",
+    image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/387561867_347016774493227_2889177851285271171_n.png?_nc_cat=102&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=43b2SQoSCgkAX9TGwj_&_nc_ht=scontent.fevn7-1.fna&oh=03_AdRTnYUfpQ6PeFvDthXKDvxmo8GcDB1iw0zDHUSEEGXUQg&oe=65632639",
     category: "React/TypeScript",
     title: "Star Wars API",
     technologies:"This project is made using React and TypeScript. The Star Wars API was used to load the data. The project has pagination, search bar and a separate page for each figure.",
@@ -33,7 +33,7 @@ export const portfolio = [
 
   {
     id: 4,
-    image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/321241850_567402068262629_8699491391814818158_n.png?_nc_cat=102&ccb=1-7&_nc_sid=ae9488&_nc_ohc=yfERXnxv5AIAX8t6kph&_nc_ht=scontent.fevn7-1.fna&oh=03_AdQDH9eSgEiqFOpYJmtssM7m_dyc_RVpNbR2OMKvXya66w&oe=6543A74C",
+    image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/321241850_567402068262629_8699491391814818158_n.png?_nc_cat=102&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=3H93wOFv3eAAX9OMgFT&_nc_ht=scontent.fevn7-1.fna&oh=03_AdRx7Ph_RiCzrosKO7tlKgTYfivKhkDUxyMozmMNyAOiMw&oe=65634B4C",
     category: "React",
     title: "React Quiz App",
     technologies:"This is a game developed using React.js. The game is also responsive.",
