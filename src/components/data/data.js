@@ -51,7 +51,7 @@ export const portfolio = [
   },
   {
     id: 6,
-    image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/322527496_913726669797339_7235995833285498593_n.png?_nc_cat=110&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=5CwL9F6M6P0AX-yYVrd&_nc_ht=scontent.fevn7-1.fna&oh=03_AdT9GDETVS9rADbeMzGFBO3yqriuc7fH_HOCVbJXsQ4h9Q&oe=656B1706",
+    image: "https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/322527496_913726669797339_7235995833285498593_n.png?_nc_cat=110&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=dPZL2IXQrJIAX9XCE1I&_nc_ht=scontent.fevn7-1.fna&oh=03_AdSDCNx9bCW_7jE7qmXVJKjCGs7z2cyl929KIth-nU_0Zg&oe=6592DC46",
     category: "HTML/CSS",
     title: "Solar Sysyem Website",
     technologies:"The website is made only with HTML/CSS. CSS features have been used as much as possible. There are a number of animations that can be viewed from the solar system drop-down menu. There are also read more/read less, back to top buttons made using only HTML/CSS. The website is responsive․",
