@@ -20,7 +20,7 @@ const About = () => {
           <div className="box">
             <Image
             width={400}
-            src="https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/404533093_1061011508286513_1596726202771295068_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=OH2qlzKZdfgAX_g-ONe&_nc_ht=scontent.fevn7-1.fna&oh=03_AdRa1eJ_icO1IslDqPaM8zTlOJt6PSfcEU7aK8rCuppBKQ&oe=65D72852"
+            src="https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/404930745_1444139186482852_6028462140592161022_n.png?_nc_cat=109&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=3GtrFXAzjmcAX-FaUVE&_nc_ht=scontent.fevn7-1.fna&oh=03_AdT-tQLMqA7cxAwQp0wJQBA0JqoAi4p6clC8MDM5R4__Zw&oe=65D7206C"
             />
           </div>
           <div className="box">
