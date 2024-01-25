@@ -31,9 +31,9 @@
  }
 
  #about .container .inner .box:last-child{
-    height: 55vh;
+    height: 45vh;
     width: 100%;
-    max-width: 500px;
+    max-width: 450px;
     position: relative;
     top:30px;
     z-index:1;

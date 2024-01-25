@@ -20,7 +20,7 @@ const About = () => {
           <div className="box">
             <Image
             width={400}
-            src="https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/320981533_679842163864035_8252587885612308767_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=IOThVZGJvUYAX8gOenk&_nc_ht=scontent.fevn7-1.fna&oh=03_AdRYyjrJw8-Zw7_kdLorsuiXYXkR1T2bLinKZXcMpKjp_Q&oe=65C2802B"
+            src="https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/404533093_1061011508286513_1596726202771295068_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8cd0a2&_nc_ohc=OH2qlzKZdfgAX_g-ONe&_nc_ht=scontent.fevn7-1.fna&oh=03_AdRa1eJ_icO1IslDqPaM8zTlOJt6PSfcEU7aK8rCuppBKQ&oe=65D72852"
             />
           </div>
           <div className="box">
@@ -44,7 +44,7 @@ const About = () => {
             icon={<WorkIcon />}
           >
             <p className="vertical-timeline-element-title">SENIOR SPECIALIST OF MONITORING AND INTERNAL STUDIES SERVICE</p>
-            <p className="vertical-timeline-element-subtitle">Public Relations and Information Center of Staff of the Prime Minister of the Republic of Armenia</p>
+            <p className="vertical-timeline-element-subtitle">Office of the Prime Minister of the Republic of Armenia</p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
@@ -54,7 +54,7 @@ const About = () => {
           >
             <span className="vertical-timeline-element-title">Expert</span>
             <p>
-            Public Relations and Information Center of Staff of the President of the Republic of Armenia
+            Office of the President of the Republic of Armenia
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
