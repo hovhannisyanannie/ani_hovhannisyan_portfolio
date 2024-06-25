@@ -15,7 +15,7 @@ export const portfolio = [
     title: "Lora online shop",
     technologies:"This is a React-Redux online shop app that allows you to move to a single product page, add products to the cart, increase/ decrease the number of products, remove products. The products can be sorted by category, brand, alphabetical order, ascending and descending order of price. I used react-toastify on the login and registration pages. I have created a fake JSON server for this app as well. The app is responsive.",
     code: "https://github.com/hovhannisyanannie/online-shop",
-    demo: "https://venerable-fudge-5d6641.netlify.app/",
+    demo: "https://online-shop-lemon.vercel.app/",
   },
 
 
