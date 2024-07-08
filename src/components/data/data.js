@@ -21,7 +21,7 @@ export const portfolio = [
 
   {
     id: 3,
-    image:"https://scontent.xx.fbcdn.net/v/t1.15752-9/387561867_347016774493227_2889177851285271171_n.png?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=WuDesPdVad4Q7kNvgEmP0IG&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QFWcG9TgVB43xjkKU1nbvv-xmVGPiZe7BF7mMqxVjsHow&oe=669B6179",
+    image:"https://scontent.xx.fbcdn.net/v/t1.15752-9/387561867_347016774493227_2889177851285271171_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=m7OhTQ-eJCsQ7kNvgF09Tac&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QGFz_zdeTTbddJOWTydqNU9maUmLUy9v5Q5zs29LTiBrA&oe=66B354B9",
     category: "React/TypeScript",
     title: "Star Wars API",
     technologies:"This project is made using React and TypeScript. The Star Wars API was used to load the data. The project has pagination, search bar and a separate page for each figure.",
