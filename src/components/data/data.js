@@ -1,7 +1,7 @@
 export const portfolio = [
   {
     id: 1,
-    image: "https://scontent.xx.fbcdn.net/v/t1.15752-9/448498970_1561896108006252_6186147572881200074_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1SMbj2A0QyUQ7kNvgGngyyl&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QEfRvk3E3g1fSxDYXV62ycgXDTWZ0ct4UnlMYcvhyeB2A&oe=669B8F2E",
+    image: "https://scontent.xx.fbcdn.net/v/t1.15752-9/449471927_1199837288097798_4890716346857530231_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=b-LK-1vvTZgQ7kNvgEFwb89&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QG6HGZ6Dwu3Rie-rC8G018djZtpbUNTRDkhBQjwdWWnvw&oe=66CB4887",
     category: "React",
     title: "Online BookStore",
     technologies:"This is an online bookshop, where I tried to use the minimal functionality intended for bookshops. The app allows you to add books to the basket, increase/decrease the number of books, or delete the given book. Pagination, search function/Authors page/ have also been added to the app. On the contact page, there is an option to send me an email via Email.js.I created my fake JSON server to have book data. This app is responsive.",
@@ -10,7 +10,7 @@ export const portfolio = [
   },
   {
     id: 2,
-    image: "https://cdn.fbsbx.com/v/t59.2708-21/450395290_798695715767221_5131108214507231443_n.gif?_nc_cat=109&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=GsYIhbVxiiYQ7kNvgH_vVT3&_nc_ht=cdn.fbsbx.com&oh=03_Q7cD1QEpH4NuVhp6Toz05odJBp9b6AE1r-zjgVSyjEUFkcSqUw&oe=668DBF9E",
+    image: "https://cdn.fbsbx.com/v/t59.2708-21/448717008_927329609164861_6388350107450229035_n.gif?_nc_cat=104&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=uUpZPkj_rpAQ7kNvgFsPonm&_nc_ht=cdn.fbsbx.com&oh=03_Q7cD1QGx3MEhz8n-pYdH-mCAIpUsnTALUts4GtNkgLjzrfke3Q&oe=66A5C0BE",
     category: "React/Redux",
     title: "Lora online shop",
     technologies:"This is a React-Redux online shop app that allows you to move to a single product page, add products to the cart, increase/ decrease the number of products, remove products. The products can be sorted by category, brand, alphabetical order, ascending and descending order of price. I used react-toastify on the login and registration pages. I have created a fake JSON server for this app as well. The app is responsive.",
@@ -21,7 +21,7 @@ export const portfolio = [
 
   {
     id: 3,
-    image:"https://scontent.xx.fbcdn.net/v/t1.15752-9/387561867_347016774493227_2889177851285271171_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=m7OhTQ-eJCsQ7kNvgF09Tac&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QGFz_zdeTTbddJOWTydqNU9maUmLUy9v5Q5zs29LTiBrA&oe=66B354B9",
+    image:"https://scontent.xx.fbcdn.net/v/t1.15752-9/387561867_347016774493227_2889177851285271171_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=vRlGT0C2XZIQ7kNvgH6u6WW&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_Q7cD1QEkQmxrExft1QmyPmT7TsnQFneobSmLzVqKMNsx6WvCMA&oe=66CB47F9",
     category: "React/TypeScript",
     title: "Star Wars API",
     technologies:"This project is made using React and TypeScript. The Star Wars API was used to load the data. The project has pagination, search bar and a separate page for each figure.",
@@ -33,7 +33,7 @@ export const portfolio = [
 
   {
     id: 4,
-    image: "https://cdn.fbsbx.com/v/t59.2708-21/448756697_1138191327414592_4818633323448943835_n.gif?_nc_cat=106&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=x0QIcj1EOakQ7kNvgGhtdq_&_nc_ht=cdn.fbsbx.com&oh=03_Q7cD1QGzw0zJRwM3WrPOnIXulJuCYd4znV4RXhHNoeMOjXiQXA&oe=668DB799",
+    image: "https://cdn.fbsbx.com/v/t59.2708-21/448756697_1138191327414592_4818633323448943835_n.gif?_nc_cat=106&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=OQwqzxABZpsQ7kNvgHdPh62&_nc_ht=cdn.fbsbx.com&oh=03_Q7cD1QES2W8EubW8EhrHpiAZCnITeN0rMXdhuiZJGmhJVG1Trw&oe=66A5E319",
     category: "React",
     title: "React Quiz App",
     technologies:"This is a game developed using React.js. The game is also responsive.",
@@ -42,7 +42,7 @@ export const portfolio = [
   },
   {
     id: 5,
-    image: "https://cdn.fbsbx.com/v/t59.2708-21/450358368_7376253379147845_2821262934337645989_n.gif?_nc_cat=108&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=JZ_19GmLqA0Q7kNvgGGMh6B&_nc_ht=cdn.fbsbx.com&oh=03_Q7cD1QGN1XVqo4PADlGCgTuR8PuTBs73aBI5BX6aXEKe1MBa7w&oe=668DB973",
+    image: "https://cdn.fbsbx.com/v/t59.2708-21/448709128_2159302331105816_788804831783086859_n.gif?_nc_cat=102&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=x0pC-3O1xLwQ7kNvgHh8elp&_nc_ht=cdn.fbsbx.com&oh=03_Q7cD1QHpmdxaPT8tL7LuSmFdNg5iERUocTF2jrRRteRmyf7ShQ&oe=66A5B54E",
     category:"JavaScript",
     title: "Tic Tac Toe",
     technologies:"This is a game developed using Javascript. I tried to use as simple codes as possible. The game is also responsive.",
@@ -51,7 +51,7 @@ export const portfolio = [
   },
   {
     id: 6,
-    image: "https://cdn.fbsbx.com/v/t59.2708-21/450027813_439313425765057_6107085778708060173_n.gif?_nc_cat=101&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=_vaDTVHGbXcQ7kNvgHeBHZ8&_nc_ht=cdn.fbsbx.com&oh=03_Q7cD1QG9jA00Es-pHhd_AKlINvCbSXbZoVF7mQ3R-p1ImBJbwQ&oe=668DA917",
+    image: "https://cdn.fbsbx.com/v/t59.2708-21/448748595_400697586297111_1898785345423737519_n.gif?_nc_cat=108&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=2UgbOUjvbBwQ7kNvgEtytM0&_nc_ht=cdn.fbsbx.com&oh=03_Q7cD1QEr0DF9qRCk7qhauw1WXPrj569Ya64GtUBD3rf4wFYZoQ&oe=66A5C3D7",
     category: "HTML/CSS",
     title: "Solar Sysyem Website",
     technologies:"The website is made only with HTML/CSS. CSS features have been used as much as possible. There are a number of animations that can be viewed from the solar system drop-down menu. There are also read more/read less, back to top buttons made using only HTML/CSS. The website is responsive․",
