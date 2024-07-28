@@ -10,7 +10,7 @@ export const portfolio = [
   },
   {
     id: 2,
-    image: "https://cdn.fbsbx.com/v/t59.2708-21/448717008_927329609164861_6388350107450229035_n.gif?_nc_cat=104&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=uUpZPkj_rpAQ7kNvgFsPonm&_nc_ht=cdn.fbsbx.com&oh=03_Q7cD1QGx3MEhz8n-pYdH-mCAIpUsnTALUts4GtNkgLjzrfke3Q&oe=66A5C0BE",
+    image: "https://cdn.fbsbx.com/v/t59.2708-21/448717008_927329609164861_6388350107450229035_n.gif?_nc_cat=104&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=uUpZPkj_rpAQ7kNvgFsPonm&_nc_ht=cdn.fbsbx.com&oh=03_Q7cD1QG-G4oZOcQEQn-xgUC89r8hFno_dSCjl0EuS6KzKI6uUA&oe=66A82B7E",
     category: "React/Redux",
     title: "Lora online shop",
     technologies:"This is a React-Redux online shop app that allows you to move to a single product page, add products to the cart, increase/ decrease the number of products, remove products. The products can be sorted by category, brand, alphabetical order, ascending and descending order of price. I used react-toastify on the login and registration pages. I have created a fake JSON server for this app as well. The app is responsive.",
@@ -33,7 +33,7 @@ export const portfolio = [
 
   {
     id: 4,
-    image: "https://cdn.fbsbx.com/v/t59.2708-21/448756697_1138191327414592_4818633323448943835_n.gif?_nc_cat=106&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=OQwqzxABZpsQ7kNvgHdPh62&_nc_ht=cdn.fbsbx.com&oh=03_Q7cD1QES2W8EubW8EhrHpiAZCnITeN0rMXdhuiZJGmhJVG1Trw&oe=66A5E319",
+    image: "https://cdn.fbsbx.com/v/t59.2708-21/448756697_1138191327414592_4818633323448943835_n.gif?_nc_cat=106&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=OQwqzxABZpsQ7kNvgHdPh62&_nc_ht=cdn.fbsbx.com&oh=03_Q7cD1QGVYx0PDQ5kn8nwi8eZFGygd0CepFzDxCk5v2zhu2N7uw&oe=66A84DD9",
     category: "React",
     title: "React Quiz App",
     technologies:"This is a game developed using React.js. The game is also responsive.",
@@ -42,7 +42,7 @@ export const portfolio = [
   },
   {
     id: 5,
-    image: "https://cdn.fbsbx.com/v/t59.2708-21/448709128_2159302331105816_788804831783086859_n.gif?_nc_cat=102&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=x0pC-3O1xLwQ7kNvgHh8elp&_nc_ht=cdn.fbsbx.com&oh=03_Q7cD1QHpmdxaPT8tL7LuSmFdNg5iERUocTF2jrRRteRmyf7ShQ&oe=66A5B54E",
+    image: "https://cdn.fbsbx.com/v/t59.2708-21/448709128_2159302331105816_788804831783086859_n.gif?_nc_cat=102&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=x0pC-3O1xLwQ7kNvgHh8elp&_nc_ht=cdn.fbsbx.com&oh=03_Q7cD1QEO_6AH9yMytsxLtP-r53gbPMGbGSBYMTz_adoexgOutQ&oe=66A8200E",
     category:"JavaScript",
     title: "Tic Tac Toe",
     technologies:"This is a game developed using Javascript. I tried to use as simple codes as possible. The game is also responsive.",
@@ -51,7 +51,7 @@ export const portfolio = [
   },
   {
     id: 6,
-    image: "https://cdn.fbsbx.com/v/t59.2708-21/448748595_400697586297111_1898785345423737519_n.gif?_nc_cat=108&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=2UgbOUjvbBwQ7kNvgEtytM0&_nc_ht=cdn.fbsbx.com&oh=03_Q7cD1QEr0DF9qRCk7qhauw1WXPrj569Ya64GtUBD3rf4wFYZoQ&oe=66A5C3D7",
+    image: "https://cdn.fbsbx.com/v/t59.2708-21/448748595_400697586297111_1898785345423737519_n.gif?_nc_cat=108&ccb=1-7&_nc_sid=cf94fc&_nc_ohc=2UgbOUjvbBwQ7kNvgEtytM0&_nc_ht=cdn.fbsbx.com&oh=03_Q7cD1QFNKWyquJI91d_IEyvCPED16QdY0vT5BtJuHhbq-w_3sQ&oe=66A82E97",
     category: "HTML/CSS",
     title: "Solar Sysyem Website",
     technologies:"The website is made only with HTML/CSS. CSS features have been used as much as possible. There are a number of animations that can be viewed from the solar system drop-down menu. There are also read more/read less, back to top buttons made using only HTML/CSS. The website is responsive․",
