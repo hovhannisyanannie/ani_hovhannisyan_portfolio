@@ -21,7 +21,7 @@ export const portfolio = [
 
   {
     id: 3,
-    image:"https://scontent.fevn6-6.fna.fbcdn.net/v/t1.15752-9/387561867_347016774493227_2889177851285271171_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=nX8UCH-10CoQ7kNvgGcxOA8&_nc_oc=AdjUGmBpvuOSeUYsFgI94nVZXuCcgEC-ilV3XV86jPOLjkhR4pmkSNQMDdf7zPR2fG5tee-YBRkdzG815ZZsmfEI&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fevn6-6.fna&oh=03_Q7cD1gGDQHmVRJJgt0Dvy9FbVFk0dZFpuEhCL9sYoNJ945Uz5w&oe=67E530B9",
+    image:"https://scontent.fevn7-1.fna.fbcdn.net/v/t1.15752-9/387561867_347016774493227_2889177851285271171_n.png?_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=rTvaAl0igfsQ7kNvwFL2M5b&_nc_oc=AdkxKnioChxKSea_UxDE0Uq7TmXQBleTm2S5Jk-8QTDi7LY6wRIhs_dD27Y-6fKY0aA&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fevn7-1.fna&oh=03_Q7cD2AF1hidJtgIbDMCyth1mlHqhYQkoyFdCIXwvHmyLBqJPPw&oe=681A5D39",
     category: "React/TypeScript",
     title: "Star Wars API",
     technologies:"This project is made using React and TypeScript. The Star Wars API was used to load the data. The project has pagination, search bar and a separate page for each figure.",
